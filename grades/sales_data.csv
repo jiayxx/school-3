@@ -1,0 +1,11 @@
+Store ID,City,Date,Product ID,Product Name,Units Sold,Total Sales
+S001,New York,01/08/2024,P001,Laptop,5,5000
+S002,Los Angeles,02/08/2024,P002,Smartphone,10,7000
+S003,Chicago,03/08/2024,P003,Tablet,8,3200
+S004,Houston,04/08/2024,P004,Headphones,15,1500
+S005,Phoenix,05/08/2024,P005,Smartwatch,12,3600
+S006,Philadelphia,06/08/2024,P006,Camera,7,4900
+S007,San Antonio,07/08/2024,P007,Monitor,9,2700
+S008,San Diego,08/08/2024,P008,Keyboard,20,2000
+S009,Dallas,09/08/2024,P009,Mouse,18,900
+S010,San Jose,10/08/2024,P010,Printer,6,2400
